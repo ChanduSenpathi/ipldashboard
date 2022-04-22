@@ -1,0 +1,22 @@
+.teams-container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px;
+    border: white 2px solid;
+    background-color: #ffffff33;
+    border-radius: 20px;
+    height: 150px;
+    width: 400px;
+}
+.image-sec{
+    width: 80px;
+}
+.team-name{
+    color: white;
+    margin-left: 10px;
+}
+.link-container{
+    text-decoration: none;
+    margin: 20px;
+}

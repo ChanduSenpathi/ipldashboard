@@ -1,0 +1,30 @@
+.teams-information{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #0f172a;
+    padding: 20px;
+    width: 400px;
+    margin: 20px;
+    border-radius: 20px;
+    color: white;
+}
+.teams-logos{
+    width: 100px;
+    height: 100px;
+}
+.win-status{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+.newcompeting-head{
+    text-align: center;
+}
+@media screen and (max-width:400px) {
+    .teams-logos{
+        width: 30px;
+        height: 30px;
+    }
+}

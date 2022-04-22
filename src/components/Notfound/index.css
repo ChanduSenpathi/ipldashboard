@@ -1,0 +1,10 @@
+.notfound-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.page-head{
+    color: white;
+    font-size: 70px;
+    font-weight: bold;
+}
